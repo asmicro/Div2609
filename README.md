@@ -37,7 +37,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Div2609)](https://github.com/asmicro/github-readme-stats)
+[![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Div2609)](https://github.com/Div2609/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Div2609&theme=cobalt)](https://github.com/Div2609)
 </div>
 
